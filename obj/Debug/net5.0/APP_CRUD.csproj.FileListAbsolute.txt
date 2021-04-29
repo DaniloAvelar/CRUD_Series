@@ -1,0 +1,16 @@
+C:\DIO\APP_CRUD\obj\Debug\net5.0\APP_CRUD.csprojAssemblyReference.cache
+C:\DIO\APP_CRUD\obj\Debug\net5.0\APP_CRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\DIO\APP_CRUD\obj\Debug\net5.0\APP_CRUD.AssemblyInfoInputs.cache
+C:\DIO\APP_CRUD\obj\Debug\net5.0\APP_CRUD.AssemblyInfo.cs
+C:\DIO\APP_CRUD\obj\Debug\net5.0\APP_CRUD.csproj.CoreCompileInputs.cache
+C:\DIO\APP_CRUD\bin\Debug\net5.0\APP_CRUD.exe
+C:\DIO\APP_CRUD\bin\Debug\net5.0\APP_CRUD.deps.json
+C:\DIO\APP_CRUD\bin\Debug\net5.0\APP_CRUD.runtimeconfig.json
+C:\DIO\APP_CRUD\bin\Debug\net5.0\APP_CRUD.runtimeconfig.dev.json
+C:\DIO\APP_CRUD\bin\Debug\net5.0\APP_CRUD.dll
+C:\DIO\APP_CRUD\bin\Debug\net5.0\ref\APP_CRUD.dll
+C:\DIO\APP_CRUD\bin\Debug\net5.0\APP_CRUD.pdb
+C:\DIO\APP_CRUD\obj\Debug\net5.0\APP_CRUD.dll
+C:\DIO\APP_CRUD\obj\Debug\net5.0\ref\APP_CRUD.dll
+C:\DIO\APP_CRUD\obj\Debug\net5.0\APP_CRUD.pdb
+C:\DIO\APP_CRUD\obj\Debug\net5.0\APP_CRUD.genruntimeconfig.cache
